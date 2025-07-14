@@ -1,7 +1,7 @@
 # llvm-script
 
 ```shell
-git clone https://github.com/thinker99k/llvm-script && \
+git clone https://github.com/ssu-csec/llvm-script && \
 cd llvm-script && chmod +x *.sh && sudo ./llvm_install.sh
 ```
 
